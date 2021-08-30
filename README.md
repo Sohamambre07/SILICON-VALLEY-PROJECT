@@ -1,1 +1,2 @@
-# SILICON-VALLEY-PROJECT
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
